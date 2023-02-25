@@ -3,7 +3,7 @@
 use `git push origin :branch_name` 
 
 >To delete a remote empty branch
-use `git branch -d branch_name`
+use ```git branch -d branch_name```
 
 >To delete a remote not empty branch
 use `git branch -D branch_name`
